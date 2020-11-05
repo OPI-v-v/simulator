@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T11:51:47.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="WNL33KoSWHEM2RZciovc" version="13.9.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-05T11:55:26.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="i9KGmvH7aI7YFhVHZ-Tm" version="13.9.1" type="github" pages="2">
   <diagram id="_NWrr05ddmTLfXL3TdW5" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="_g4kGHc5Y9F_n04kEslc-1" value="datoteka z vrednostmi oz intervali" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4hDPUWFKngYLcMNtfriG-1">
           <mxGeometry x="510" y="90" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_g4kGHc5Y9F_n04kEslc-2" value="preberi podatke in pretvori enote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4hDPUWFKngYLcMNtfriG-1">
+        <mxCell id="_g4kGHc5Y9F_n04kEslc-2" value="preberi podatke z datoteke in pretvori enote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4hDPUWFKngYLcMNtfriG-1">
           <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_g4kGHc5Y9F_n04kEslc-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4hDPUWFKngYLcMNtfriG-1" source="_g4kGHc5Y9F_n04kEslc-1">
@@ -240,6 +240,21 @@
         </mxCell>
         <mxCell id="Z7Z6cUH789x1SoD20A9A-16" value="ukaz_za_temperaturo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-65;" vertex="1" parent="4hDPUWFKngYLcMNtfriG-1">
           <mxGeometry x="60" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ugX3hBUozOKR9K9OEqGu-0" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4hDPUWFKngYLcMNtfriG-1" target="_g4kGHc5Y9F_n04kEslc-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="349.17" as="sourcePoint" />
+            <mxPoint x="660" y="349.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugX3hBUozOKR9K9OEqGu-1" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="4hDPUWFKngYLcMNtfriG-1" target="_g4kGHc5Y9F_n04kEslc-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="350" as="sourcePoint" />
+            <mxPoint x="625" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugX3hBUozOKR9K9OEqGu-2" value="ime_datoteke" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4hDPUWFKngYLcMNtfriG-1">
+          <mxGeometry x="590" y="330" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
