@@ -1,6 +1,6 @@
-TEMPERATURA: 21 [program zazna enoto samodejno, glede na vneseno vrednost. Možne enote so °C, K in °F]
-VLAZNOST: 45 [%]
-OSVETLJENOST: 8000 [lx]
-INTERVAL TEMPERATURE: [10, 40] - enota so °C
-STOPNJA VLAZNOSTI: [30,60] – relativna vlažnost v %
-INTERVAL OSVETLJENOSTI: [10,10000] – enota so lx
+TEMPERATURA: 21
+VLAZNOST: 45
+OSVETLJENOST: 8000
+INTERVAL TEMPERATURE: [10, 40]
+STOPNJA VLAZNOSTI: [30,60]
+INTERVAL OSVETLJENOSTI: [10,10000]
